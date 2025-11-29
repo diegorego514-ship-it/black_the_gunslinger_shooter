@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kaname Madoka
+* source:	https://sketchfab.com/3d-models/kaname-madoka-29e893f6aebc448dbd4eda398860a652
+* author:	CrashBits (https://sketchfab.com/CrashBits)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kaname Madoka" (https://sketchfab.com/3d-models/kaname-madoka-29e893f6aebc448dbd4eda398860a652) by CrashBits (https://sketchfab.com/CrashBits) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
